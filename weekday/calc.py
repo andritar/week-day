@@ -1,5 +1,5 @@
 """
-Functionality to calculate day of week.
+Functionality to calculate day of week. 
 """
 import re
 
